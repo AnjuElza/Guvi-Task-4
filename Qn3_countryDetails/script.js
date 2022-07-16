@@ -33,7 +33,8 @@ xhr.onload=function(){
 xhr.send();
 
 
-/*script.js:17 Country name:
+/*Output
+script.js:17 Country name:
                     Official:Guam
                     Common:Guam
                         Region:Oceania
